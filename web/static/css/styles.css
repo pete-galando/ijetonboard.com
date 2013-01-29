@@ -93,6 +93,7 @@ p {
 
 nav {
     margin: 15px 0;
+    border-bottom: 1px solid #ccc;
 }
 
 nav ul li {
@@ -108,13 +109,6 @@ nav ul li a:visited {
     text-align: center;
     font-weight: 400;
     text-decoration: none;
-    background-color: #007dc3;
-    border-top: 4px solid #8dc63f;
-    color: #fff;
-}
-
-nav ul li a:hover {
-    background-color: #00659d;
 }
 
 a:link,
@@ -125,7 +119,7 @@ a:active {
 }
 
     a:hover {
-        color: #00659d;
+        color: #8dc63f;
     }
 
 /* Banner */
@@ -170,7 +164,7 @@ a.button:active {
 
     .button:hover,
     a.button:hover {
-        background-color: #00659d;
+        background-color: #8dc63f;
     }
 
 
