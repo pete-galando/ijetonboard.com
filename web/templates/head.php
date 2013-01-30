@@ -32,8 +32,16 @@
                   </ul>
                   <?php
                     if(isset($pages[$active_parent]['children'])) {
-                        $is_developers = $active_page_title === 'Developers' || $active_parent === 'Developers';
-                        echo '<ul class="clearafter subnav' . ($is_developers ? ' developers' : '') . '">';
+                        $is_developers  = $active_page_title === 'Developers' || $active_parent === 'Developers';
+                        $is_airlines    = $active_page_title === 'Airlines' || $active_parent === 'Airlines';
+                        $special_class  = '';
+                        if($is_developers) {
+                            $special_class = ' developers';
+                        } else if($is_airlines) {
+                            $special_class = ' airlines';
+                        }
+
+                        echo '<ul class="clearafter subnav' . $special_class . '">';
                         foreach($pages[$active_parent]['children'] as $title => $page_info) {
                             $is_active = $title === $active_page_title;
                             echo '<li><a href="' . $page_info['url'] . '"' . ($is_active ? ' class="active"' : '') . '>' . $title . '</a>';
