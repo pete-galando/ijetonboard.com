@@ -20,7 +20,7 @@
       </head>
       <body>
           <header class="clearafter">
-              <a href="/"><img alt="iJet ONBOARD" src="/static/images/logo.gif" width="243" height="53" border="0"></a>
+              <a href="<?= BASE_URL; ?>"><img alt="iJet ONBOARD" src="/static/images/logo.gif" width="243" height="53" border="0"></a>
               <nav>
                   <ul class="clearafter">
                     <?php
