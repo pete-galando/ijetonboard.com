@@ -27,7 +27,7 @@
             <strong>Event Inquiries:</strong><br>
             <a href="mailto:events@ijetonboard.com">events@ijetonboard.com</a><br><br>
             <strong>Career Inquiries:</strong><br>
-            <a href="jobs@ijetonboard.com">jobs@ijetonboard.com</a>
+            <a href="mailto:jobs@ijetonboard.com">jobs@ijetonboard.com</a>
         </p>
     </section>
 <?php
