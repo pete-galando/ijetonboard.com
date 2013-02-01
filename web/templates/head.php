@@ -1,7 +1,11 @@
 <?php
 
-    if (!isset($active_page_title)) {
+    if(!isset($active_page_title)) {
         $active_page_title = 'Home';
+    }
+
+    if(!isset($include_jquery)) {
+        $include_jquery = false;
     }
 
 ?><!DOCTYPE html>
@@ -19,6 +23,8 @@
     <? if(isset($extra_styles)): ?><style type="text/css"><?= $extra_styles ?></style><?php endif; ?>
     <!--[if lt IE 9]>
     <script src="/static/js/html5shiv.js"></script><![endif]-->
+    <?php if($include_jquery): ?><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script><?php endif; ?>
+    <?php if(isset($extra_scripts)): ?><script><?= $extra_scripts; ?></script><?php endif; ?>
 </head>
 <body>
 <div id="rail"></div>

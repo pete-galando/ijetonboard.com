@@ -269,6 +269,13 @@ a.icon-up:active {
     padding-right: 35px;
 }
 
+a.icon-down:link,
+a.icon-down:visited,
+a.icon-down:active {
+    background: transparent url(/static/images/down.png) no-repeat scroll right center;
+    padding-right: 35px;
+}
+
 .anchor-header {
     position: relative;
 }

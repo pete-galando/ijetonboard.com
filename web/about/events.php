@@ -7,7 +7,7 @@
     $extra_styles = <<<EOF
 
     .spaced li {
-        margin: 40px 40px;
+        margin: 60px 40px;
     }
 
     .spaced img {
