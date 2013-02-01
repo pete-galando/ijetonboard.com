@@ -7,7 +7,7 @@
 
     define('ENABLE_CUSTOM_FONT', true);
 
-    define('BASE_URL', 'http://ijetonboard.local/');
+    define('BASE_URL', 'http://newwww.us.ijetonboard.com/');
 
     $pages = array(
         'Home'      => array( 'url' => '/' ),
