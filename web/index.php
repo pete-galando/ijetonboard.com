@@ -2,7 +2,6 @@
     include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
 
     $title     = $active_page_title = 'Home';
-    $base_href = BASE_URL;
 
     include_once WEB_ROOT . '/templates/head.php';
 

@@ -2,7 +2,6 @@
     include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
 
     $title = 'Applications';
-    $base_href = BASE_URL . '/airlines/';
     $active_parent = 'Airlines';
     $active_page_title = 'Applications';
 
@@ -11,10 +10,20 @@
     <section id="banner"></section>
     <section>
         <h1>Applications</h1>
-        <p>
-            iJet's vision for the intelligent aircraft is to help our airline customers generate new sources of revenue and become more operationally efficient.
-            We are going to accomplish this by changing how applications are brought to the aircraft. To support this vision iJet Onboard is building a Platform-as-a-Service.
-        </p>
+        <div class="clearafter">
+            <div class="float-left one-third column">
+                <h2 class="no-rule">iJet Built</h2>
+                <p>Lorum ipsum...</p>
+            </div>
+            <div class="float-left one-third column">
+                <h2 class="no-rule">Partner Applications</h2>
+                <p>Lorum ipsum...</p>
+            </div>
+            <div class="float-left one-third column">
+                <h2 class="no-rule">Data Services</h2>
+                <p>Lorum ipsum...</p>
+            </div>
+        </div>
     </section>
 <?php
 

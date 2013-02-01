@@ -1,9 +1,5 @@
 <?php
 
-    if (!isset($base_href)) {
-        $base_href = $_SERVER['REQUEST_URL'];
-    }
-
     if (!isset($active_page_title)) {
         $active_page_title = 'Home';
     }
@@ -12,7 +8,6 @@
 <html>
 <head>
     <title>iJet ONBOARD&trade; | <?= htmlspecialchars($title); ?></title>
-    <base href="<?= $base_href; ?>">
     <meta name="description"
           content="iJet Onboard is a platform and services company with a passion to transform commercial aviation. We are enabling the intelligent aircraft by building an open and secure platform which provides three foundational capabilities: systems management, data management and application hosting.">
     <meta name="keywords"
@@ -21,6 +16,7 @@
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300,600,700" rel="stylesheet"
           type="text/css"><?php endif; ?>
     <link href="/static/css/styles.css" rel="stylesheet" type="text/css">
+    <? if(isset($extra_styles)): ?><style type="text/css"><?= $extra_styles ?></style><?php endif; ?>
     <!--[if lt IE 9]>
     <script src="/static/js/html5shiv.js"></script><![endif]-->
 </head>

@@ -7,12 +7,27 @@
 
     include_once WEB_ROOT . '/templates/head.php';
 ?>
-    <section id="banner"></section>
     <section>
-        <h1>Applications</h1>
+        <h1>Contact Us</h1>
         <p>
-            iJet's vision for the intelligent aircraft is to help our airline customers generate new sources of revenue and become more operationally efficient.
-            We are going to accomplish this by changing how applications are brought to the aircraft. To support this vision iJet Onboard is building a Platform-as-a-Service.
+            Industry professionals are invited to contact us at any time. Partnerships. Affiliates. Technical information. Service requests. We want iJet Onboard to be your network. So please be in touch regarding specific needs or applications you may require.
+        </p>
+        <p>
+        <h2>Corporate Headquarters</h2>
+        <p>
+            1601 Fifth Avenue, Suite 1200<br>
+            Seattle, WA 98101<br>
+            <a href="tel:1-206-832-1250">206.832.1250</a>
+        </p>
+        <p>
+            <strong>General Inquiries:</strong><br>
+            <a href="mailto:contact@ijetonboard.com">contact@ijetonboard.com</a><br><br>
+            <strong>Media Inquiries:</strong><br>
+            <a href="mailto:press@ijetonboard.com">press@ijetonboard.com</a><br><br>
+            <strong>Event Inquiries:</strong><br>
+            <a href="mailto:events@ijetonboard.com">events@ijetonboard.com</a><br><br>
+            <strong>Career Inquiries:</strong><br>
+            <a href="jobs@ijetonboard.com">jobs@ijetonboard.com</a>
         </p>
     </section>
 <?php

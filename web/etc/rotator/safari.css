@@ -1,0 +1,15 @@
+/* Anything before this will target any browser that supports webkit */ ## {} /* anything after this point should only target Safari browsers */ 
+
+
+/*	
+.container {
+	top:-6px!important;
+}
+.buttons {
+	top:11px!important;
+}
+.screen {
+	background-image:none!important;
+}
+
+*/

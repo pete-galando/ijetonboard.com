@@ -1,21 +1,52 @@
 <?php
     include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
 
-    $title = 'Connectivity';
-    $base_href = BASE_URL . '/airlines/';
-    $active_parent = 'Airlines';
+    $title             = 'Connectivity';
+    $active_parent     = 'Airlines';
     $active_page_title = 'Connectivity';
 
+
+$extra_styles = <<<EOF
+    .text-center {
+        text-align: center;
+    }
+
+    #connectivity {
+        margin: 20px 36px 20px;
+    }
+EOF;
+
     include_once WEB_ROOT . '/templates/head.php';
+
 ?>
-    <section id="banner"></section>
+<section>
+    <a name="top"></a><h1>Connectivity</h1>
+    <p>
+        We recognize that multiple technologies exist for providing connectivity to commercial aircraft. No single
+        technology is the best option in all cases. The optimal solution may depend on the aircraft's location, the type
+        of data that needs to be exchanged and data security considerations.
+    </p>
+    <p>
+        iJet Onboard will utilize multi-link management to choose the best link according to a set of business rules and
+        dynamically manage the link for the most efficient transport.
+    </p>
+    <p>
+        Our airline customers utilize a variety of networks based upon their route structure. The following map
+        illustrates coverage for the currently available connectivity solutions.
+    </p>
+    <ul class="bulleted">
+        <li><a href="#options">Connectivity Options</a></li>
+        <li><a href="#link-management">Link Management</a></li>
+    </ul>
     <section>
-        <h1>Applications</h1>
-        <p>
-            iJet's vision for the intelligent aircraft is to help our airline customers generate new sources of revenue and become more operationally efficient.
-            We are going to accomplish this by changing how applications are brought to the aircraft. To support this vision iJet Onboard is building a Platform-as-a-Service.
-        </p>
+        <a name="options"></a><h2 class="anchor-header">Connectivity Options<a href="#top" class="icon-up back">Back to Top</a></h2>
+        <iframe id="connectivity" src="<?= BASE_URL ?>etc/rotator" border="0" width="888" height="573"></iframe>
     </section>
+    <section>
+        <a name="link-management"></a><h2 class="anchor-header">Link Management<a href="#top" class="icon-up back">Back to Top</a></h2>
+        <p class="text-center"><img src="<?= BASE_URL ?>static/images/link-management.png" alt="Link Management" width="888" height="477"></p>
+    </section>
+</section>
 <?php
 
     include_once WEB_ROOT . '/templates/foot.php';

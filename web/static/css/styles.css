@@ -29,27 +29,47 @@ body {
 }
 
 h1 {
-    font-size: 1.8em;
+    font-size: 2em;
+    font-weight: 400;
+}
+
+strong {
+    font-weight: 600;
 }
 
 h2 {
     font-size: 1.6em;
+    font-weight: 300;
 }
 
 h1,
 h2 {
     border-bottom: 1px solid #ccc;
     line-height: 2;
+    margin: 0 0 20px;
 }
 
-h1,
-h2 {
-    margin: 0 0 20px;
-    font-weight: 400;
+h2.no-rule {
+    border-bottom: none;
+}
+
+h3 {
+    font-size: 1.4em;
+    font-weight: 300;
+    margin: 0;
 }
 
 p {
     margin: 20px 0;
+}
+
+.bulleted li {
+    margin: 10px 40px;
+    list-style: disc;
+}
+
+.spaced li {
+    margin: 10px 40px;
 }
 
 /* Columns */
@@ -60,6 +80,10 @@ p {
 
 .one-half {
     width: 460px;
+}
+
+.one-third {
+    width: 300px;
 }
 
 /* Floats and Clears */
@@ -165,10 +189,10 @@ a:active {
     cursor: pointer;
 }
 
-    a:hover,
-    nav ul li a.active {
-        color: #8dc63f;
-    }
+a:hover,
+nav ul li a.active {
+    color: #8dc63f;
+}
 
 /* Banner */
 
@@ -208,28 +232,52 @@ a.button:active {
     line-height: 2.4;
     font-weight: 400;
     text-transform: uppercase;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -o-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
 }
 
-    .button:hover,
-    a.button:hover {
-        background-color: #8dc63f;
-    }
+.button:hover,
+a.button:hover {
+    background-color: #8dc63f;
+}
 
+a.icon-gear:link,
+a.icon-gear:visited,
+a.icon-gear:active,
+a.icon-plane:link,
+a.icon-plane:visited,
+a.icon-plane:active {
+    background-image: url(/static/images/gear.png);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    padding-left: 45px;
+}
 
-    a.icon-gear:link,
-    a.icon-gear:visited,
-    a.icon-gear:active,
-    a.icon-plane:link,
-    a.icon-plane:visited,
-    a.icon-plane:active {
-        background-image: url(/static/images/gear.png);
-        background-repeat: no-repeat;
-        background-position: 10px center;
-        padding-left: 45px;
-    }
+a.icon-plane:link,
+a.icon-plane:visited,
+a.icon-plane:active {
+    background-image: url(/static/images/plane.png);
+}
 
-    a.icon-plane:link,
-    a.icon-plane:visited,
-    a.icon-plane:active {
-        background-image: url(/static/images/plane.png);
-    }
+a.icon-up:link,
+a.icon-up:visited,
+a.icon-up:active {
+    background: transparent url(/static/images/up.png) no-repeat scroll right center;
+    padding-right: 35px;
+}
+
+.anchor-header {
+    position: relative;
+}
+
+a.back {
+    position: absolute;
+    right: 10px;
+    font-size: 0.5em;
+    line-height: 25px;
+    margin-top: -12.5px;
+    top: 50%;
+}
