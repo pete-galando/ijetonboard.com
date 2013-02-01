@@ -21,7 +21,7 @@ ul {
 /* Global Element Styles */
 
 body {
-    margin: 40px auto;
+    margin: 70px auto;
     width: 960px;
     font-family: Calibri, 'Open Sans', 'Helvetica Neue', Helvetica, arial, sans-serif;
     font-size: 100%;
@@ -44,12 +44,12 @@ h2 {
 
 h1,
 h2 {
-    margin: 0 0 30px;
+    margin: 0 0 20px;
     font-weight: 400;
 }
 
 p {
-    margin: 30px 0;
+    margin: 20px 0;
 }
 
 /* Columns */
@@ -93,39 +93,57 @@ p {
     float: right;
 }
 
-/* Navigation */
+/* Rail */
+
+#rail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #2b3852;
+    height: 30px;
+    border-bottom: 5px solid #8dc63f;
+}
+
+/* Header */
 
 header {
     position: relative;
-    margin-bottom: 30px;
 }
+
+/* Navigation */
 
 nav {
     position: absolute;
     right: 0px;
-    top: 15px;
+    top: 27px;
 }
 
 nav ul {
     border-bottom: 1px solid #ccc;
 }
 
-nav ul.subnav {
+.subnav {
+    text-align: center;
+}
+
+nav .subnav ul {
+    display: inline-block;
     border-bottom: none;
     font-size: 0.8em;
 }
 
 nav ul li {
     float: left;
-    width: 120px;
+    margin: 0 15px;
 }
 
-nav ul.developers li {
-    width: 180px;
+nav ul li:first-child {
+    margin-left: 0;
 }
 
-nav ul.airlines {
-    margin: 0 60px;
+nav ul li:last-child {
+    margin-right: 0;
 }
 
 nav ul li a:link,
@@ -160,13 +178,13 @@ a:active {
 }
 
 section {
-    margin: 30px 0;
+    margin: 20px 0;
 }
 
 footer {
     text-align: right;
     margin: 40px 0 0;
-    border-top: 1px solid #ccc;
+    border-top: 2px solid #8dc63f;
     line-height: 3;
     font-size: 0.825em;
     padding-right: 10px;
@@ -175,7 +193,7 @@ footer {
 
 footer li {
     float: left;
-    margin: 0 10px;
+    margin: 0 15px;
 }
 
 .button,
@@ -183,7 +201,7 @@ a.button:link,
 a.button:visited,
 a.button:active {
     display: inline-block;
-    padding: 0 30px;
+    padding: 0 20px;
     background-color: #007dc3;
     color: #fff;
     text-decoration: none;
