@@ -2,13 +2,12 @@
     include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
 
     $title     = $active_page_title = 'Home';
+    $include_jquery = true;
+    $heroes = array('hero_home.jpg', 'hero_jets_illustration.jpg', 'hero_world_map.jpg');
 
     include_once WEB_ROOT . '/templates/head.php';
 
 ?>
-<section id="banner"><img src="<?= BASE_URL ?>static/images/home-banner-1.jpg" width="960" height="300"
-                          alt="The US global airline industry is projected to grow to more than 40,000 aircraft by 2030">
-</section>
 <section class="clearafter">
     <div class="float-left column one-half">
         <h2>Airlines</h2>

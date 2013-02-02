@@ -27,7 +27,7 @@ EOF;
         of data that needs to be exchanged and data security considerations.
     </p>
     <p>
-        iJet Onboard will utilize multi-link management to choose the best link according to a set of business rules and
+        iJet Onboard will utilize multi-Multi Link Management to choose the best link according to a set of business rules and
         dynamically manage the link for the most efficient transport.
     </p>
     <p>
@@ -36,15 +36,15 @@ EOF;
     </p>
     <ul class="bulleted">
         <li><a href="#options">Connectivity Options</a></li>
-        <li><a href="#link-management">Link Management</a></li>
+        <li><a href="#link-management">Multi Link Management</a></li>
     </ul>
     <section>
         <a name="options"></a><h2 class="anchor-header">Connectivity Options<a href="#top" class="icon-up back">Back to Top</a></h2>
         <iframe id="connectivity" src="<?= BASE_URL ?>etc/rotator" border="0" width="888" height="573"></iframe>
     </section>
     <section>
-        <a name="link-management"></a><h2 class="anchor-header">Link Management<a href="#top" class="icon-up back">Back to Top</a></h2>
-        <p class="text-center"><img src="<?= BASE_URL ?>static/images/link-management.png" alt="Link Management" width="888" height="477"></p>
+        <a name="link-management"></a><h2 class="anchor-header">Multi Link Management<a href="#top" class="icon-up back">Back to Top</a></h2>
+        <p class="text-center"><img src="<?= BASE_URL ?>static/images/link-management.png" alt="Multi Link Management" width="888" height="477"></p>
     </section>
 </section>
 <?php

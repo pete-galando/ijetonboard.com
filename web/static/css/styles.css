@@ -23,9 +23,13 @@ ul {
 body {
     margin: 70px auto;
     width: 960px;
+}
+
+body, select {
     font-family: Calibri, 'Open Sans', 'Helvetica Neue', Helvetica, arial, sans-serif;
     font-size: 100%;
     font-weight: 300;
+    color: #414042;
 }
 
 h1 {
@@ -45,8 +49,10 @@ h2 {
 h1,
 h2 {
     border-bottom: 1px solid #ccc;
-    line-height: 2;
+    line-height: 1;
     margin: 0 0 20px;
+    padding-bottom: 15px;
+    color: #000;
 }
 
 h2.no-rule {
@@ -69,7 +75,7 @@ p {
 }
 
 .spaced li {
-    margin: 10px 40px;
+    margin: 20px 40px;
 }
 
 /* Columns */
@@ -162,11 +168,11 @@ nav ul li {
     margin: 0 15px;
 }
 
-nav ul li:first-child {
+nav ul > li:first-child {
     margin-left: 0;
 }
 
-nav ul li:last-child {
+nav ul > li:last-child {
     margin-right: 0;
 }
 
@@ -197,17 +203,25 @@ nav ul li a.active {
 /* Banner */
 
 #banner {
+    position: relative;
     height: 300px;
-    background-color: #ccc;
+}
+
+#banner img {
+    position: absolute;
 }
 
 section {
     margin: 20px 0;
 }
 
+body > section:last-child {
+    margin-bottom: 0;
+}
+
 footer {
     text-align: right;
-    margin: 40px 0 0;
+    margin: 20px 0 0;
     border-top: 2px solid #8dc63f;
     line-height: 3;
     font-size: 0.825em;
@@ -232,6 +246,13 @@ a.button:active {
     line-height: 2.4;
     font-weight: 400;
     text-transform: uppercase;
+}
+
+.button,
+a.button:link,
+a.button:visited,
+a.button:active,
+.rounded {
     border-radius: 3px;
     -webkit-border-radius: 3px;
     -o-border-radius: 3px;

@@ -6,18 +6,18 @@
     $active_page_title = 'Platform';
 
     $extra_styles = <<<EOF
-.platform-tab-content {
-    width: 440px;
-    margin-left: 20px;
-}
+        .platform-tab-content {
+            width: 440px;
+            margin-left: 20px;
+        }
 
-.platform-tab-content p:first-child {
-    margin-top: 0;
-}
+        .platform-tab-content > p:first-child {
+            margin-top: 0;
+        }
 
-.platform-tab-content p:last-child {
-    margin-bottom: 0;
-}
+        .platform-tab-content > p:last-child {
+            margin-bottom: 0;
+        }
 EOF;
 
     include_once WEB_ROOT . '/templates/head.php';
@@ -37,7 +37,7 @@ EOF;
     <section>
         <a name="overview"></a><h2 class="anchor-header">Overview<a href="#top" class="icon-up back">Back to Top</a></h2>
         <div class="clearafter">
-            <img src="<?= BASE_URL ?>static/images/platform-chart.jpg" width="480" height="501" alt="Diagram of the Platform" class="float-left">
+            <img src="<?= BASE_URL ?>static/images/platform-chart.gif" width="479" height="502" alt="Diagram of the Platform" class="float-left" style="margin-right: 1px;">
             <div class="float-left platform-tab-content">
                 <p>
                     The iJet Onboard Platform is an integrated and flexible system comprised of both onboard and terrestrial components, designed to support a wide range of operational applications for the aviation industry.
@@ -48,7 +48,7 @@ EOF;
                 <ul class="bulleted">
                     <li>Greatly enhanced onboard data collection.</li>
                     <li>A stable interface to the aircraft core systems.</li>
-                    <li>Link management tools.</li>
+                    <li>Multi link management tools.</li>
                 </ul>
             </div>
         </div>

@@ -27,7 +27,8 @@
                 'Overview'      => array( 'url' => '/airlines/' ),
                 'Platform'      => array( 'url' => '/airlines/platform.php' ),
                 'Applications'  => array( 'url' => '/airlines/applications.php' ),
-                'Connectivity'  => array( 'url' => '/airlines/connectivity.php' ),
+                'Data Services' => array( 'url' => '/airlines/data-services.php' ),
+                'Connectivity'  => array( 'url' => '/airlines/connectivity.php' )
             )
         ),
         'Developers'  => array(
