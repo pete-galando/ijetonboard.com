@@ -7,7 +7,7 @@
 
     include_once WEB_ROOT . '/templates/head.php';
 ?>
-<section id="banner" xmlns="http://www.w3.org/1999/html"><img src="<?= BASE_URL ?>static/images/developers-banner-1.gif"
+<section id="banner"><img src="<?= BASE_URL ?>static/images/developers-banner-1.gif"
                                                               width="960" height="300"
                                                               alt="Developing for the iJet ONBOARD Platform">
 </section>

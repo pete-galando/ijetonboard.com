@@ -7,9 +7,9 @@
 
     include_once WEB_ROOT . '/templates/head.php';
 ?>
-<section id="banner"></section>
 <section>
     <h1>Platform Services</h1>
+    <div style="text-align: center;"><img src="<?= BASE_URL ?>static/images/ijet-platform-wheel.gif" width="400" alt="The iJet Platform"></div>
     <p>
         The iJet Platform provides three foundational capabilities: application hosting, data management, and systems
         management.

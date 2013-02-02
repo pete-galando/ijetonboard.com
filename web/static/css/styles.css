@@ -26,6 +26,7 @@ body {
     font-family: Calibri, 'Open Sans', 'Helvetica Neue', Helvetica, arial, sans-serif;
     font-size: 100%;
     font-weight: 300;
+    color: #414042;
 }
 
 h1 {
@@ -48,6 +49,7 @@ h2 {
     line-height: 1;
     margin: 0 0 20px;
     padding-bottom: 15px;
+    color: #000;
 }
 
 h2.no-rule {
@@ -70,7 +72,7 @@ p {
 }
 
 .spaced li {
-    margin: 10px 40px;
+    margin: 20px 40px;
 }
 
 /* Columns */
