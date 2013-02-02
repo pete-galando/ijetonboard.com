@@ -11,11 +11,12 @@ Date			Duration		Description
 1/26/13			2 hours			Development
 1/29/13         3 hours         Development
 1/30/13         6 hours         Development
+2/2/13          9 hours         Development
 
-Current Uninvoiced Time			12.5 hours
+Current Uninvoiced Time			21.50 hours
 Hourly Rate						$75/hr
 								------------
-Outstanding						$937.50
+Outstanding						$1612.50
 ```
 
 ## Invoices:
