@@ -200,8 +200,12 @@ nav ul li a.active {
 /* Banner */
 
 #banner {
+    position: relative;
     height: 300px;
-    background-color: #ccc;
+}
+
+#banner img {
+    position: absolute;
 }
 
 section {

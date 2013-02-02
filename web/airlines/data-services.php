@@ -1,9 +1,10 @@
 <?php
-include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
 
-$title             = 'Data Services';
-$active_parent     = 'Airlines';
-$active_page_title = 'Data Services';
+    include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
+
+    $title             = 'Data Services';
+    $active_parent     = 'Airlines';
+    $active_page_title = 'Data Services';
 
 $extra_styles = <<<EOF
     #data-services li {
@@ -20,11 +21,16 @@ $extra_styles = <<<EOF
     }
 EOF;
 
-include_once WEB_ROOT . '/templates/head.php';
+    $heroes = array('hero_we_are_ijet.jpg');
+
+    include_once WEB_ROOT . '/templates/head.php';
 
 ?>
 <section>
     <h1>Data Services</h1>
+    <p>
+        iJet's Data Services provides airlines and third-party developers with secure access to aircraft data as soon as it streams off an airplane. The following are examples of Data Services supported by iJet's Platform.  Airlines and their developers can also configure customized services to address other challenges in the operations or business domain.
+    </p>
     <ul id="data-services">
         <li class="clearafter">
             <img src="<?= BASE_URL; ?>static/images/data-services-1.png" width="100" class="float-left">

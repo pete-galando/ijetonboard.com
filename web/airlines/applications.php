@@ -6,12 +6,13 @@
     $active_page_title = 'Applications';
 
     $extra_styles = <<<EOF
-    .spaced li div {
-        width: 760px;
-        margin-left: 20px;
-    }
+.spaced li div {
+    width: 760px;
+    margin-left: 20px;
+}
 EOF;
 
+    $heroes = array('hero_insights.jpg');
 
     include_once WEB_ROOT . '/templates/head.php';
 

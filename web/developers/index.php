@@ -5,12 +5,10 @@
     $active_parent     = 'Developers';
     $active_page_title = 'Overview';
 
+    $heroes = array('hero_developers_solution_graphic.gif', 'hero_unlock_box.jpg');
+
     include_once WEB_ROOT . '/templates/head.php';
 ?>
-<section id="banner"><img src="<?= BASE_URL ?>static/images/developers-banner-1.gif"
-                                                              width="960" height="300"
-                                                              alt="Developing for the iJet ONBOARD Platform">
-</section>
 <section>
     <h1>Developers</h1>
     <p>

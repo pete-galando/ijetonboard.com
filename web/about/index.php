@@ -8,7 +8,6 @@
 
     include_once WEB_ROOT . '/templates/head.php';
 ?>
-    <section id="banner"></section>
     <section>
         <h1>About Us</h1>
         <p>

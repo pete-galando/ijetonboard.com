@@ -5,9 +5,10 @@
     $active_parent = 'Airlines';
     $active_page_title = 'Overview';
 
+    $heroes = array('hero_airport_terminal.jpg', 'hero_cockpit_illustration.jpg', 'hero_global_industry_icons.jpg');
+
     include_once WEB_ROOT . '/templates/head.php';
 ?>
-    <section id="banner"></section>
     <section>
         <h1>Airlines</h1>
         <p>

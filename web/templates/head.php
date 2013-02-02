@@ -4,10 +4,6 @@
         $active_page_title = 'Home';
     }
 
-    if(!isset($include_jquery)) {
-        $include_jquery = false;
-    }
-
 ?><!DOCTYPE html>
 <html>
 <head>
@@ -23,8 +19,6 @@
     <? if(isset($extra_styles)): ?><style type="text/css"><?= $extra_styles ?></style><?php endif; ?>
     <!--[if lt IE 9]>
     <script src="/static/js/html5shiv.js"></script><![endif]-->
-    <?php if($include_jquery): ?><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script><?php endif; ?>
-    <?php if(isset($extra_scripts)): ?><script><?= $extra_scripts; ?></script><?php endif; ?>
 </head>
 <body>
 <div id="rail"></div>
@@ -51,3 +45,8 @@
         ?>
     </nav>
 </header>
+<?php if(isset($heroes) && count($heroes) > 0): ?>
+<section id="banner"<?= (count($heroes) > 1 ? ' style="cursor:pointer;"' : '') ?>>
+    <img src="<?= BASE_URL ?>static/images/banners/<?= $heroes[0] ?>" width="960" height="300">
+</section>
+<?php endif; ?>
