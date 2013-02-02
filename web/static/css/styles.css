@@ -23,6 +23,9 @@ ul {
 body {
     margin: 70px auto;
     width: 960px;
+}
+
+body, select {
     font-family: Calibri, 'Open Sans', 'Helvetica Neue', Helvetica, arial, sans-serif;
     font-size: 100%;
     font-weight: 300;
