@@ -2,7 +2,6 @@
     include_once $_SERVER['DOCUMENT_ROOT'] . '/init.php';
 
     $title             = 'Developers';
-    $base_href         = BASE_URL . '/airlines/';
     $active_parent     = 'Developers';
     $active_page_title = 'Overview';
 

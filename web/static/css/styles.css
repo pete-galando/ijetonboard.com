@@ -45,8 +45,9 @@ h2 {
 h1,
 h2 {
     border-bottom: 1px solid #ccc;
-    line-height: 2;
+    line-height: 1;
     margin: 0 0 20px;
+    padding-bottom: 15px;
 }
 
 h2.no-rule {
@@ -162,11 +163,11 @@ nav ul li {
     margin: 0 15px;
 }
 
-nav ul li:first-child {
+nav ul > li:first-child {
     margin-left: 0;
 }
 
-nav ul li:last-child {
+nav ul > li:last-child {
     margin-right: 0;
 }
 
@@ -205,9 +206,13 @@ section {
     margin: 20px 0;
 }
 
+body > section:last-child {
+    margin-bottom: 0;
+}
+
 footer {
     text-align: right;
-    margin: 40px 0 0;
+    margin: 20px 0 0;
     border-top: 2px solid #8dc63f;
     line-height: 3;
     font-size: 0.825em;
