@@ -12,8 +12,8 @@
     <section>
         <h1>Airlines</h1>
         <p>
-            iJet's vision for the intelligent aircraft is to help our airline customers generate new sources of revenue and become more operationally efficient.
-            We are going to accomplish this by changing how applications are brought to the aircraft. To support this vision iJet Onboard is building a Platform-as-a-Service.
+            Our Platform and applications consume aircraft data to alert, notify, monitor, locate, sense, and provide actionable insight.
+            This is the foundation for increasing operational efficiency and delivering value across the entire airline enterprise.
         </p>
     </section>
 <?php
