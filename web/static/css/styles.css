@@ -163,6 +163,10 @@ nav ul li {
     margin: 0 15px;
 }
 
+    nav .subnav li {
+        margin: 0 10px;
+    }
+
 nav ul > li:first-child {
     margin-left: 0;
 }
