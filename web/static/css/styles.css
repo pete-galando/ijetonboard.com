@@ -21,7 +21,7 @@ ul {
 /* Global Element Styles */
 
 body {
-    margin: 70px auto;
+    margin: 55px auto;
     width: 960px;
 }
 
@@ -32,16 +32,11 @@ body, select {
     color: #414042;
 }
 
-h1 {
-    font-size: 2em;
-    font-weight: 400;
-}
-
 strong {
     font-weight: 600;
 }
 
-h2 {
+h1, h2 {
     font-size: 1.6em;
     font-weight: 300;
 }
@@ -168,6 +163,10 @@ nav ul li {
     margin: 0 15px;
 }
 
+    nav .subnav li {
+        margin: 0 10px;
+    }
+
 nav ul > li:first-child {
     margin-left: 0;
 }
@@ -205,6 +204,7 @@ nav ul li a.active {
 #banner {
     position: relative;
     height: 300px;
+    margin-bottom: 40px;
 }
 
 #banner img {
@@ -221,7 +221,7 @@ body > section:last-child {
 
 footer {
     text-align: right;
-    margin: 20px 0 0;
+    margin: 40px 0 0;
     border-top: 2px solid #8dc63f;
     line-height: 3;
     font-size: 0.825em;

@@ -5,11 +5,12 @@
     $active_parent     = 'Developers';
     $active_page_title = 'Platform Services';
 
+    $heroes = array('hero_wheel.jpg');
+
     include_once WEB_ROOT . '/templates/head.php';
 ?>
 <section>
     <h1>Platform Services</h1>
-    <div style="text-align: center;"><img src="<?= BASE_URL ?>static/images/ijet-platform-wheel.gif" width="400" alt="The iJet Platform"></div>
     <p>
         The iJet Platform provides three foundational capabilities: application hosting, data management, and systems
         management.
