@@ -14,7 +14,7 @@
 
         <p>
             Airline operators are coming to expect new capabilities from their airplanes. iJet provides an open platform
-            and application to connect the airlines with their fleet.
+            and applications to connect the airlines with their fleet.
         </p>
         <a href="<?= BASE_URL; ?>airlines/" class="button icon-plane">Learn More</a>
     </div>

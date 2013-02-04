@@ -29,7 +29,7 @@ EOF;
 <section>
     <h1>Data Services</h1>
     <p>
-        iJet's Data Services provides airlines and third-party developers with secure access to aircraft data as soon as it streams off an airplane. The following are examples of Data Services supported by iJet's Platform.  Airlines and their developers can also configure customized services to address other challenges in the operations or business domain.
+        iJet's Data Services provide airlines and third-party developers with secure access to aircraft data as soon as it streams off an airplane. The following are examples of Data Services supported by iJet's Platform.  Airlines and their developers can also configure customized services to address other challenges in the operations or business domain.
     </p>
     <ul id="data-services">
         <li class="clearafter">

@@ -39,7 +39,7 @@ EOF;
         ),
         array(
             'title' => 'HIGH VALUE CUSTOMER',
-            'desc'  => 'Allows flight crews to interface with reservation and customer loyalty software and make and receive immediate updates to passenger information. Increased revenues result from an enhanced customer experience, and greater customer loyalty and retention.'
+            'desc'  => 'Allows flight crews to interface with reservation and customer loyalty software to make and receive immediate updates to passenger information. Increased revenues result from an enhanced customer experience, and greater customer loyalty and retention.'
         ),
     );
 ?>
@@ -54,7 +54,7 @@ EOF;
     <section>
         <a name="ijet-built"></a><h2 class="anchor-header">iJet Built<a href="#top" class="icon-up back">Back to Top</a></h2>
         <p>
-            iJet leads initial development efforts by delivering a subset of applications that drive key features of the Platform. This provides the foundation for developing our software development kit (SDK) and assisting our application partners in their future development efforts.   Our initial applications include:
+            iJet leads initial development efforts by delivering a subset of applications that drive key features of the Platform. This provides the foundation for developing our software development kit (SDK) and assisting our application partners in their future development efforts.
         </p>
         <ul class="spaced">
         <?php
