@@ -73,7 +73,7 @@ EOF;
     <section>
         <a name="top"></a><h1>Press</h1>
         <div style="position: relative;">
-            <div style="background-color: #eee; padding: 20px; position: absolute; right: 0; top: 0;" class="rounded">
+            <div style="background-color: #eee; padding: 12px; position: absolute; right: 0; top: 0;" class="rounded">
                 <strong>For general media inquiries, please contact:</strong><br>
                 <a href="mailto:press@ijetonboard.com">press@ijetonboard.com</a><br>
                 <a href="tel:1-206-832-1250">206.832.1250</a><br>
