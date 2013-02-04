@@ -315,7 +315,7 @@ EOF
         $FUNCTION_OPERATIONS
     ),
     new Job(
-        'Product Manager',
+        'Project Manager',
         <<<EOF
 <p>
         iJet Technologies, Inc. is executing upon a global strategy to successfully deliver world-class applications and connectivity solutions to the aviation industry.
