@@ -106,7 +106,7 @@ EOF;
         <h2>Board of Directors</h2>
         <ul class="spaced board">
             <li>William J. Marks, Chairman & Co-Founder</li>
-            <li>Tom Rinderknecht</li>
+            <li>Thomas Rinderknecht</li>
             <li>J.P. Roed</li>
         </ul>
     </section>
