@@ -23,7 +23,7 @@
 
         <p>
             iJet allows developers to address the inefficiencies of the aviation market by rapidly developing and
-            deploying applications a fraction of the cost.
+            deploying applications at a fraction of the cost.
         </p>
         <a href="<?= BASE_URL ?>developers/" class="button icon-gear">Learn More</a>
     </div>
