@@ -89,7 +89,6 @@ EOF;
     <section>
         <a name="resources"></a><h2 class="anchor-header">Resources<a href="#top" class="icon-up back">Back to Top</a></h2>
         <ul class="bulleted">
-            <li><a href="<?= BASE_URL ?>static/docs/ijet-company-overview.pdf" target="_blank">Company Overview</a></li>
             <li><a href="<?= BASE_URL ?>about/team.php">Bios</a></li>
             <li><a href="<?= BASE_URL ?>static/resources/iJetLogos.zip">Logos</a></li>
         </ul>
