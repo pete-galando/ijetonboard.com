@@ -65,7 +65,7 @@ EOF;
                 </div>
             </li>
             <li>
-                <a name="mike-cary" href="#mike-cary" class="toggle-link icon-down">Mike Carey, Senior Vice President Legal and Business Affairs</a>
+                <a name="mike-cary" href="#mike-cary" class="toggle-link icon-down">Mike Carey, Senior Vice President</a>
                 <div class="toggle-target">
                     Mike is responsible for all aspects of legal, finance, HR and business operations functions, providing oversight, guidance and direction to facilitate the achievement of iJet Onboard's business goals. Mike brings a broad range of experience, having counseled large companies on a multitude of issues including commercial agreements, strategic initiatives, corporate finance, acquisitions and government affairs. Mike was most recently senior legal manager, products and technology at Nintendo, and prior to that was general counsel at Extend America. He also held the position of executive counsel at The Walt Disney Company and was in charge of global legal services for Dell.
                 </div>

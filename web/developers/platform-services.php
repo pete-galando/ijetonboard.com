@@ -37,7 +37,6 @@
             <strong>Standardized health, status, and service management</strong><br>
             The iJet Platform centralizes all log events, applies filters, and notifies ground-based operators of the most urgent issues. Active monitoring functions on the iJet Platform integrate similarly with the central logging system to provide a robust external assessment of application health and status.
         <li>
-        <li>
             <strong>Remote software update capabilities</strong>
             The iJet Platform implements policy-driven configuration management, both for onboard and offboard components. This configuration management function provides iJet operators the ability to safely and remotely update software and configurations on the airplane, with roll-back in case of failure.
         </li>

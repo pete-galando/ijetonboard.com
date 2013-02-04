@@ -23,7 +23,7 @@
 <body>
 <div id="rail"></div>
 <header class="clearafter">
-    <a href="<?= BASE_URL; ?>"><img alt="iJet ONBOARD" src="/static/images/logo.gif" width="292" height="92" border="0"></a>
+    <a href="<?= BASE_URL; ?>"><img alt="iJet ONBOARD" src="/static/images/ijet_logo.jpg" width="295" height="100" border="0"></a>
     <nav>
         <ul class="clearafter">
             <?php

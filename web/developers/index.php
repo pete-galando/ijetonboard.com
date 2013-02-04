@@ -5,7 +5,7 @@
     $active_parent     = 'Developers';
     $active_page_title = 'Overview';
 
-    $heroes = array('hero_development_data.jpg', 'hero_unlock_box.jpg');
+    $heroes = array('hero_home.jpg','hero_development_data.jpg', 'hero_unlock_box.jpg');
 
     include_once WEB_ROOT . '/templates/head.php';
 ?>
@@ -22,11 +22,11 @@
     <p>We make it easy for developers to access this large and untapped market through a variety of services.</p>
     <ul class="bulleted">
         <li>Data Services provides developers with secure access to aircraft data as soon as it streams off an
-            airplane.
+            airplane
         </li>
-        <li>Inquiry Services allow airlines to retrieve point-in-time aircraft data, both current and historical.</li>
-        <li>Streaming Services pushes data to subscribing applications the moment the data is available.</li>
-        <li>Customized Services enable developers to configure their own services based on specialized business needs.
+        <li>Inquiry Services allow airlines to retrieve point-in-time aircraft data, both current and historical</li>
+        <li>Streaming Services pushes data to subscribing applications the moment the data is available</li>
+        <li>Customized Services enable developers to configure their own services based on specialized business needs
         </li>
     </ul>
 </section>
