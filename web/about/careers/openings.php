@@ -84,15 +84,12 @@ EOF
 
      <h4>Qualifications and Requirements</h4>
      <ul>
-        <li> Excellent Java software engineering skills, including strong experience with Spring and
-Hibernate frameworks</li>
-		<li> Skills in Groovy and/or Python are a substantial benefit</li>
-		<li> A broad range of experience in modern software development, patterns, and
-technologies. Some areas that are particularly relevant to iJet include web services (especially RESTful interactions), asynchronous messaging (JMS and AMQP), relational and schema-free data management and analytics (experience with Map/Reduce frameworks a plus), and infrastructure automation.</li>
-		<li> Web development skills are beneficial, including experience developing modern, data- driven websites with HTML/XHTML and CSS, JavaScript (especially jQuery), asynchronous / Ajax patterns, and database integration.</li>
-		<li> Ability to incorporate a variety of COTS and open source software tools to quickly develop powerful, highly reliable solutions</li>
-		<li> Experience with software-build and continuous integration tools (Hudson/Jenkins, Maven, Ant, or others)</li>
-		<li> Degree or equivalent experience in Electrical Engineering or Computer Science is preferred</li>
+        <li>Excellent web development skills, including extensive experience developing modern, data-driven websites with HTML/XHTML and CSS, Google Web Tools (JWT), asynchronous / Ajax patterns, and database integration.</li>
+<li>Deep experience with one or more MVC frameworks (Groovy/Grails a strong plus)</li> 
+<li>Strong Java software engineering skills, including experience with Spring and Hibernate frameworks</li>
+<li>Beyond web development, it will be beneficial to have a broad range of experience in modern software development, patterns, and technologies. Some areas that are particularly relevant to iJet include web services (especially RESTful interactions), asynchronous messaging (JMS and AMQP), relational and schema-free data management and analytics (experience with Map/Reduce frameworks a plus), and infrastructure automation</li>
+<li>Ability to incorporate a variety of COTS and open source software tools to quickly develop powerful, highly reliable solutions</li>
+<li>Degree or equivalent experience in Electrical Engineering or Computer Science is preferred</li>
      </ul>
 EOF
 ,
@@ -140,38 +137,45 @@ EOF
         $FUNCTION_ENGINEERING
     ),
     new Job(
-        'Applications Architect',
+        'Product Application and Technical Analyst',
         <<<EOF
 <p>
-        iJet Onboard is a platform and services company with a passion to transform aviation. We are developing an open computing platform and a set of associated applications that provide unprecedented access to aircraft data and substantial improvements in airline operational efficiency.</p>
-     <p>
-		iJet is seeking an experienced Application Architect to focus on software design and implementation of new applications for iJet's Platform. The right candidate will be an exceptional Java software developer with an established track-record designing complex software applications and leading development teams through successful delivery. Our ideal team member has a strong Computer Science background, loves to solve challenging problems with software, and collaborates enthusiastically with colleagues. The Application Architect has substantial expertise in Java, MVC development patterns (Groovy/Grails preferred), web services (SOAP and REST), asynchronous messaging, and data management (relational and non- relational). A background in airline operations would be beneficial, but is not required.</p>
-
-     <h4>Responsibilities and Expectations</h4>
+     iJet Technologies, Inc. is executing upon a global strategy to successfully deliver world-class applications and connectivity solutions to the aviation industry.
+<p>
+The iJet Product Application and Technical Analyst is a key functional position that assists and provides value to iJet Product Owners and Solutions Architects, as well as customers and 3rd party users of the iJet platform.
+<p>
+This position will be based in iJet's Seattle headquarters and will report to the VP of Product.
+<p>
+     <h4>The Product Analyst is expected to:</h4>
      <ul>
-        <li>Apply a consulting mindset and strong communication skills to act as the bridge between iJet's Engineering and Product teams</li>
-		<li>Lead the architecture and design of new operational applications that integrate with iJet's Platform</li>
-		<li>Identify application requirements, identify risks and challenges, and estimate implementation time/cost</li>
-		<li>Clearly and effectively document the architecture and design, lead review sessions, and communicate the design to other engineering and product teams</li>
-		<li>Act as development lead on one or more application development teams</li>
-		<li>Develop reference applications to help airlines and other third-parties understand and
-integrate with the iJet platform; communicate with iJet customers and partners as may
-be necessary to ensure success of their iJet-related development efforts</li>
-		<li>Collaborate on architecture and design for other aspects of iJet's Platform</li>
+        <li>Be part of a very strong Product team that takes commercial aviation applications from ideation, to development, to deployment</li>
+        <li>Be the Product interface to Engineering on issues related to requirements, scope and acceptance</li>
+        <li>Interface with external partners and customers on issues related to Platform as a Service offerings, and application integration into that platform</li>
+</ul>
+     <h4>Required experience and expertise:</h4>
+     <ul>
+     
+     <li>Demonstrable evidence of experience or interest in commercial aviation, avionics and/or aerospace technology</li>
+     <li>Experience in either C++ or Java development (although this is not a software development position)</li>
+     <li>Knowledge of TCP/IP, Internet standards and security; compression technology and satellite communications experience a plus</li>
+     <li>A desire and ability to interact with iJet platform customers, prospects and the external development community</li>
+     <li>Experience with agile development processes and their product release cycles</li>
+     <li>Ability to work without constant supervision as part of a team with remote members</li>
+<li>Experience with Mobile Device Management a plus</li>
+<li>Bachelor's degree in Computer Science, Electrical Engineering or Aerospace Engineering</li>
      </ul>
-     <h4>Qualifications and Requirements</h4>
+     <h4>Job Competencies:</h4>
      <ul>
-        <li>5+ years in a Software Architecture / Software Design Engineer role, with strong experience in Java web application design and development
-		</li><li>Strong experience with SOA / Web Services patterns and technologies
-		</li><li>Strong experience with modern UI development
-		</li><li>Exceptional written and verbal communications skills, and demonstrated ability to
-make, explain, and document architectures and architectural design decisions
-		</li><li>10+ years of relevant experience and Bachelor's degree in Electrical Engineering or
-Computer Science is preferred</li>
+<li>High degree of emotional intelligence</li>
+<li>Flexible and patient in the face of uncertainty and ambiguity</li>
+<li>Ability to ask for help and honestly consider alternative ideas</li>
+<li>Comfortable confronting complex, difficult problems</li> 
+<li>A sense of humor</li>
+
 		     </ul>
 EOF
         ,
-        array( $FUNCTION_ENGINEERING, $FUNCTION_PROD_DEV )
+        $FUNCTION_PROD_DEV
     ),
     new Job(
         'Data Management Architect',
@@ -313,54 +317,5 @@ EOF
 EOF
         ,
         $FUNCTION_OPERATIONS
-    ),
-    new Job(
-        'Project Manager',
-        <<<EOF
-<p>
-        iJet Technologies, Inc. is executing upon a global strategy to successfully deliver world-class applications and connectivity solutions to the aviation industry.
-     </p>
-     <p>
-        The successful applicant for the project manager position will act as the project and business conduit for communication between iJet and software development suppliers or partners responsible for delivering key system components. The project manager will work closely with the project engineer, the project team and company leadership to ensure the project aspects of the supplier contract are met in a timely manner.
-     </p>
-     <h4>Primary Responsibilities and Expectations</h4>
-     <ul>
-        <li>Develop Project Plans, including budgets, schedules and risk assessment.</li>
-		<li>Monitor the project performance of suppliers / partners.</li>
-		<li>Present supplier / partner project performance and project status to the iJet team.</li>
-		<li>Advise the iJet technical team and company leadership about project matters with the
-supplier / partner.</li>
-		<li>Provide input to the legal department to successfully write and execute a contract.</li>
-		<li>Participate in the development of SOW and WBS within iJet and with suppliers / partners.</li>
-		<li>Ensure suppliers / partners are working under the guidelines of the contract.</li>
-		<li>Make recommendations when project issues may affect the scope of the project or
-change the nature of the contract.</li>
-		<li>Evaluate and negotiate requirements changes between iJet and the supplier / partner.</li>
-		<li>Participating in supplier:</li>
-           <ul class="secondaryListItem">
-              <li>Selection</li>
-              <li>Technical evaluation</li>
-              <li>Product definition</li>
-              <li>Product integration </li>
-              <li>Product qualification </li>
-              <li>Product introduction</li>
-           </ul>
-
-     </ul>
-     <h4>Qualifications and Requirements</h4>
-     <ul>
-        <li>Minimum 5 years of experience in the aerospace or other regulated industry. Highly desirable to have Aerospace and Software Development experience.</li>
-		<li>Demonstrated Project Management Skills: Schedule Tracking, Task Management, Risk Management, Etc...</li>
-		<li>Clear, precise verbal and presentation skills</li>
-		<li>Proven experience working in the customer / supplier environment</li>
-		<li>Familiarity with Agile Software Development tools and processes</li>
-		<li>Demonstrated skills using PMBOK processes and procedures.</li>
-		<li>Background in in Electrical Engineering, Computer Science or System Engineering is
-preferred</li>
-		<li>Proficient with Microsoft Office tools</li>
-     </ul>
-EOF
-        ,
-        $FUNCTION_PROD_MANAGEMENT
     )
 );
