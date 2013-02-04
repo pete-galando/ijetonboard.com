@@ -21,12 +21,12 @@
     <h2>How It Works</h2>
     <p>We make it easy for developers to access this large and untapped market through a variety of services.</p>
     <ul class="bulleted">
-        <li><b>Data Services</b> provides developers with secure access to aircraft data as soon as it streams off an
+        <li><strong>Data Services</strong> provides developers with secure access to aircraft data as soon as it streams off an
             airplane
         </li>
-        <li><b>Inquiry Services</b> allow airlines to retrieve point-in-time aircraft data, both current and historical</li>
-        <li><b>Streaming Services</b> pushes data to subscribing applications the moment the data is available</li>
-        <li><b>Customized Services</b> enable developers to configure their own services based on specialized business needs
+        <li><strong>Inquiry Services</strong> allow airlines to retrieve point-in-time aircraft data, both current and historical</li>
+        <li><strong>Streaming Services</strong> pushes data to subscribing applications the moment the data is available</li>
+        <li><strong>Customized Services</strong> enable developers to configure their own services based on specialized business needs
         </li>
     </ul>
 </section>
