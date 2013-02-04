@@ -41,10 +41,6 @@ EOF;
             'title' => 'HIGH VALUE CUSTOMER',
             'desc'  => 'Allows flight crews to interface with reservation and customer loyalty software and make and receive immediate updates to passenger information. Increased revenues result from an enhanced customer experience, and greater customer loyalty and retention.'
         ),
-        array(
-            'title' => 'PRE-DEPARTURE MONITORING AND DELAY MANAGEMENT',
-            'desc'  => 'Gathers and displays real-time progress information to pilots and airport operations personnel of all pre-departure processes, (baggage loading, passenger boarding, catering, fueling, etc.) to better ensure on-time aircraft departures.'
-        )
     );
 ?>
     <section>
