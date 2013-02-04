@@ -38,7 +38,7 @@ EOF;
     </ul>
     <section>
         <a name="options"></a><h2 class="anchor-header">Connectivity Options<a href="#top" class="icon-up back">Back to Top</a></h2>
-        <iframe id="connectivity" src="<?= BASE_URL ?>etc/rotator" border="0" width="888" height="573"></iframe>
+        <iframe id="connectivity" src="<?= BASE_URL ?>etc/rotator" border="0" width="888" height="573" scrolling="no" ></iframe>
     </section>
     <section>
         <a name="link-management"></a><h2 class="anchor-header">Multi Link Management<a href="#top" class="icon-up back">Back to Top</a></h2>
