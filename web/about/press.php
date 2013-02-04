@@ -81,7 +81,6 @@ EOF;
             </div>
             <ul class="bulleted">
                 <li><a href="#resources">Resources</a></li>
-                <li><a href="#speakers">Available Speakers</a></li>
                 <li><a href="#news">Industry News &amp; Press Releases</a></li>
                 <li><a href="#memberships">Memberships &amp; Affiliations</a></li>
             </ul>
@@ -94,13 +93,6 @@ EOF;
             <li><a href="<?= BASE_URL ?>about/team.php">Bios</a></li>
             <li><a href="<?= BASE_URL ?>static/resources/iJetLogos.zip">Logos</a></li>
         </ul>
-    </section>
-    <section>
-        <a name="speakers"></a><h2 class="anchor-header">Available Speakers<a href="#top" class="icon-up back">Back to Top</a></h2>
-        <p>
-            <strong>Reuven Carlyle</strong><br>
-            Topics: Business development, financing, sales, marketing and public policy as it relates to early and mid stage technology companies in the wireless, software and clean energy sectors
-        </p>
     </section>
     <section>
         <a name="news"></a><h2 class="anchor-header">Industry News &amp; Press Releases<a href="#top" class="icon-up back">Back to Top</a></h2>

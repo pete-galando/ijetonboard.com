@@ -19,23 +19,19 @@ EOF;
     $apps = array(
         array(
             'title' => 'APU MONITORING AND REPORTING',
-            'desc'  => 'Eases the management of APU usage, providing real-time reporting, resulting in measurable annual fuel and manpower savings.'
+            'desc'  => 'Eases the management of APU usage, providing real-time alerting and post use reporting, resulting in substantial annual fuel and manpower savings.'
         ),
         array(
             'title' => 'AIRCRAFT SYSTEMS PREDICTION, EMULATION AND NOTIFICATION',
-            'desc'  => 'Mirrors and replicates all flight deck and aircraft systems data allowing pilots and airline operations to collaborate on troubleshooting during flight. Allows for en-route notification to Technical Operations of actual and potential aircraft component failures..'
+            'desc'  => 'Mirrors and replicates all flight deck and aircraft systems data allowing pilots and airline operations to collaborate on troubleshooting during flight. Provides en-route notification to Technical Operations of actual and predicted aircraft component failures.  This application facilitates measurable savings in delay minutes, cancellations, and manpower.'
         ),
         array(
             'title' => 'CARBON EMISSIONS AUDITOR',
-            'desc'  => 'Entails an on-board data aggregator to collect fuel flow and emissions data. Accurate emissions auditing will be possible by using actual operational data on a per-flight basis.'
+            'desc'  => 'Collects and aggregates fuel flow and emissions data to provide accurate emissions auditing by using actual operational data on a per-flight basis.  As Carbon Tax practices are initiated this application ensures airlines are not overcharged for carbon emissions based on inaccurate regulatory estimates of emissions.'
         ),
         array(
             'title' => 'OVERFLIGHT AUDITOR ',
-            'desc'  => 'Repurposes location data without any additional bandwidth usage to create a ‘location logbook.’ This application will provide information to airlines and aircraft lessors who are subject to a myriad of international overflight fees, federal and state use taxes, property taxes and sales taxes.'
-        ),
-        array(
-            'title' => 'AIRCRAFT DEPARTURE AND ARRIVAL MONITORING',
-            'desc'  => 'Provides an in-flight management and arrival coordination tool and pulls metrics from the airplane, airline, and FAA. Real time display will allow the operators to look at all of the flight cycle metrics and determine their status. The application will have the ability to time stamp metrics as they are completed to help determine delay causes if applicable.'
+            'desc'  => 'Repurposes location data without any additional bandwidth usage to create a \'location logbook.\' This application provides information to airlines and aircraft lessors who are subject to international over flight fees, federal and state use taxes, property taxes and sales taxes.  Accurate data allows airlines to contest over flight charges based on data from the actual flight path.'
         ),
         array(
             'title' => 'GRAPHICAL WEATHER TO THE FLIGHT DECK',

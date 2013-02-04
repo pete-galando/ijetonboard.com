@@ -71,7 +71,7 @@ EOF;
                 </div>
             </li>
             <li>
-                <a name="reuvan-carlyle" href="#reuvan-carlyle" class="toggle-link icon-down">Reuvan Carlyle, Vice President of Strategic Development</a>
+                <a name="reuven-carlyle" href="#reuven-carlyle" class="toggle-link icon-down">Reuven Carlyle, Vice President of Strategic Development</a>
                 <div class="toggle-target">
                     Reuven leads the company's external affairs, public policy and government relations efforts. As a serial entrepreneur in the software, wireless and clean energy sectors, Reuven has helped to bring advanced technology solutions to the transportation, military and public safety industries. Reuven is also an elected official in Washington State, serving as a member of the state House of Representatives.
                 </div>

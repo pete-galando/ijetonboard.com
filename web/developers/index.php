@@ -5,7 +5,7 @@
     $active_parent     = 'Developers';
     $active_page_title = 'Overview';
 
-    $heroes = array('hero_developers_solution_graphic.gif', 'hero_unlock_box.jpg');
+    $heroes = array('hero_development_data.jpg', 'hero_unlock_box.jpg');
 
     include_once WEB_ROOT . '/templates/head.php';
 ?>

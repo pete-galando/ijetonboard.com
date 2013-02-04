@@ -46,9 +46,9 @@ EOF;
                     Our platform provides:
                 </p>
                 <ul class="bulleted">
-                    <li>Greatly enhanced onboard data collection.</li>
-                    <li>A stable interface to the aircraft core systems.</li>
-                    <li>Multi link management tools.</li>
+                    <li>Greatly enhanced onboard data collection</li>
+                    <li>A stable interface to the aircraft core systems</li>
+                    <li>Multi link management tools</li>
                 </ul>
             </div>
         </div>
