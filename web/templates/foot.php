@@ -16,7 +16,7 @@
                     echo '<li><a href="' . $page_info['url'] . '"' . ($is_active ? ' class="active"' : '') . '>' . $title . '</a>';
                 }
             ?></ul>
-            &copy; 2013 iJet ONBOARD&trade;, Inc.
+            &copy; 2013 iJet Technlogies, Inc.
         </footer>
         <?php if($include_jquery): ?><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script><?php endif; ?>
         <?php if(isset($extra_scripts)): ?><script><?= $extra_scripts; ?></script><?php endif; ?>
