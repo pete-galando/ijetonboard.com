@@ -12,7 +12,7 @@
 <section>
     <h1>Developers</h1>
     <p>
-        As the new platform and services provider in aviation iJet will nurture and develop and vibrant application
+        As the new platform and services provider in aviation, iJet will nurture and develop a vibrant application
         development community.
         The iJet Platform occupies a central position in the emerging aerospace industrial data aggregation and analysis
         business by allowing aircraft operators to access, manage, secure and distribute data to intelligent

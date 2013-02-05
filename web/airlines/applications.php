@@ -19,7 +19,7 @@ EOF;
     $apps = array(
         array(
             'title' => 'APU MONITORING AND REPORTING',
-            'desc'  => 'Eases the management of APU usage, providing real-time alerting and post use reporting, resulting in substantial annual fuel and manpower savings.'
+            'desc'  => 'Eases the management of APU usage, providing real-time alerting and post-use reporting, resulting in substantial annual fuel and manpower savings.'
         ),
         array(
             'title' => 'AIRCRAFT SYSTEMS PREDICTION, EMULATION AND NOTIFICATION',

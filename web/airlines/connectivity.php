@@ -43,7 +43,7 @@ EOF;
     <section>
         <a name="link-management"></a><h2 class="anchor-header">Multi Link Management<a href="#top" class="icon-up back">Back to Top</a></h2>
 <p>
-iJet's Platform takes advantage of the growing number of communication solutions for commercial aircraft. Built on the standard Internet protocols, the iJet Platform supports multiple data link technologies, including satellite, 3G/4G cellular, and Wi-Fi. No one single link technology is the best option for all communications. The optimal communications path may depend on an aircraft's location, the type of data that needs to be exchanged, and data security considerations. iJet's Platform uses Multi-Link Management to select the best link according to a set of business rules defined by the airline customer, and dynamically manages the available links to provide the most efficient communication.
+iJet's Platform takes advantage of the growing number of communication solutions for commercial aircraft. Built on standard Internet protocols, the iJet Platform supports multiple data link technologies, including satellite, 3G/4G cellular, and Wi-Fi. No one single link technology is the best option for all communications. The optimal communications path may depend on an aircraft's location, the type of data that needs to be exchanged, and data security considerations. iJet's Platform uses Multi-Link Management to select the best link according to a set of business rules defined by the airline customer, and dynamically manages the available links to provide the most efficient communication.
 </p>
         <p class="text-center"><img src="<?= BASE_URL ?>static/images/link-management.png" alt="Multi Link Management" width="888" height="477"></p>
     </section>
