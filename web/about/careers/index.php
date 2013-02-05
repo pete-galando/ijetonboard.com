@@ -95,9 +95,9 @@ EOF;
             <li>Please attach your resume</li>
             <li>Please provide both an e-mail address and a phone number where you may be reached</li>
             <li>No phone calls, please</li>
-            <li>iJet is an Equal Opportunity Employer and does not discriminate on the basis of race, gender or religion</li>
             <li>No relocation allowance or B1 Visa managing</li>
             <li>iJet conducts pre-employment background screening on all of our candidates</li>
+            <li>iJet is an equal opportunity employer, committed to recruiting, hiring and promoting qualified people of all backgrounds, regardless of sex; race; color; creed; national origin; age; marital status; pregnancy; physical, mental or sensory disability; sexual orientation; gender identity or any other basis protected by federal, state or local law.</li>
         </ul>
         <p><strong>Job Application and Consent for Background Check Form:</strong></p>
         <p>When asked to complete these, you may download them here:</p>
