@@ -26,7 +26,8 @@ EOF;
         <a name="top"></a>
         <h1>Platform</h1>
         <p>
-            Enabled with iJet's Onboard Platform, aircraft become part of a smarter, software-based ecosystem. The flow of information is rich and continuous. And because the platform is driven by software, the fleet's capabilities can improve literally overnight.
+            Enabled with iJet's Platform, aircraft become part of a smarter, software-based ecosystem. The flow of information is rich and continuous. And because the platform is driven by software, the fleet's capabilities can improve literally overnight.  
+The iJet Platform merges onboard systems, the airlines existing data communication links, ground-based computing, and data analytic resources into a single, extensible platform.
         </p>
         <ul class="bulleted">
             <li><a href="#overview">Overview</a></li>
@@ -40,7 +41,7 @@ EOF;
             <img src="<?= BASE_URL ?>static/images/platform-chart.gif" width="479" height="502" alt="Diagram of the Platform" class="float-left" style="margin-right: 1px;">
             <div class="float-left platform-tab-content">
                 <p>
-                    The iJet Onboard Platform is an integrated and flexible system comprised of both onboard and terrestrial components, designed to support a wide range of operational applications for the aviation industry.
+                    The iJet Platform is an integrated and flexible system comprised of both onboard and terrestrial components, designed to support a wide range of operational applications for the aviation industry.
                 </p>
                 <p>
                     Our platform provides:
@@ -68,6 +69,8 @@ EOF;
                     <li>Application platform for onboard computing capacity to provide web servers, applications and API access to aircraft data</li>
                     <li>Interface with the connectivity package</li>
                     <li>Communication server for airplane systems and sensors</li>
+<li>A set of standard systems management servics designed to support all phases of application and platform lifecycle, from initial deployment to daily operation</li>
+<li>Powerful multi-link messaging capabilites to securely and cost effectivly move data between applications and associated sytems</li>
                 </ul>
             </div>
         </div>
