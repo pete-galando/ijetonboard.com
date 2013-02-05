@@ -3,7 +3,7 @@
 
     $title = 'Contact Us';
     $active_page_title = 'Contact us';
-
+    $active_parent = '';
     include_once WEB_ROOT . '/templates/head.php';
 ?>
     <section>

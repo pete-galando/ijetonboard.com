@@ -4,7 +4,7 @@
     $title     = $active_page_title = 'Home';
     $include_jquery = true;
     $heroes = array('hero_home.jpg', 'hero_jets_illustration.jpg', 'hero_world_map.jpg');
-
+    $active_parent = '';
     include_once WEB_ROOT . '/templates/head.php';
 
 ?>
