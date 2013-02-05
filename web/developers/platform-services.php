@@ -10,7 +10,7 @@
     include_once WEB_ROOT . '/templates/head.php';
 ?>
 <section>
-    <h1>Platform Services</h1>
+    <h1>Platform Services for Application Development</h1>
     <p>
         The iJet Platform provides three foundational capabilities: application hosting, data management, and systems
         management.
@@ -19,7 +19,7 @@
         Our Platform centralizes these common capabilities for reuse, eliminating the need for development
         of every new application or service.
     </p>
-    <p>Core Platform Services consist of the following main capabilities:</p>
+    <p>The Core Platform consists of the following main capabilities:</p>
     <ul class="spaced">
         <li>
             <strong>Application hosting onboard and offboard the aircraft</strong><br>
