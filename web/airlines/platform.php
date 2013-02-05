@@ -26,7 +26,6 @@ EOF;
         <a name="top"></a>
         <h1>Platform</h1>
         <p>
-            Enabled with iJet's Platform, aircraft become part of a smarter, software-based ecosystem. The flow of information is rich and continuous. And because the platform is driven by software, the fleet's capabilities can improve literally overnight.  
 The iJet Platform merges onboard systems, the airlines existing data communication links, ground-based computing, and data analytic resources into a single, extensible platform.
         </p>
         <ul class="bulleted">
