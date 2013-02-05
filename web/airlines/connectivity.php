@@ -27,7 +27,7 @@ EOF;
         of data that needs to be exchanged and data security considerations.
     </p>
     <p>
-    iJet Onboard utilizes Multi Link Management to choose the best link according to a set of business rules and dynamically manage the link for the most efficient transport.
+    The iJet Platform utilizes Multi Link Management to choose the best link according to a set of business rules and dynamically manage the link for the most efficient transport.
 </p>
     <p>
     Our airline customers operate their own communication links. The following map illustrates coverage for the currently available connectivity solutions.
