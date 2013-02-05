@@ -9,7 +9,7 @@
     <section>
         <h1>Contact Us</h1>
         <p>
-            Industry professionals are invited to contact us at any time. Partnerships. Affiliates. Technical information. Service requests. We want iJet Onboard to be your network. So please be in touch regarding specific needs or applications you may require.
+            Industry professionals are invited to contact us at any time. iJet welcomes inquires relating to partnerships, affiliates, technical information, and service requests. We want iJet Onboard to be your network. Please be in touch regarding specific needs or applications you may require.
         </p>
         <p>
         <h2>Corporate Headquarters</h2>
