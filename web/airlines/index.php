@@ -12,7 +12,7 @@
     <section>
         <h1>Airlines</h1>
         <p>
-            Our Platform and applications consume aircraft data to alert, notify, monitor, locate, sense, and provide actionable insight.
+            Our Platform-as-a-Service will aggregate aircraft data and enable hosted applications and data services to consume that data to alert, notify, monitor, locate, sense, and provide actionable insight.
             This is the foundation for increasing operational efficiency and delivering value across the entire airline enterprise.
         </p>
     </section>
