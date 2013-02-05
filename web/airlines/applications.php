@@ -19,11 +19,13 @@ EOF;
     $apps = array(
         array(
             'title' => 'APU MONITORING AND REPORTING',
-            'desc'  => 'Eases the management of APU usage, providing real-time alerting and post-use reporting, resulting in substantial annual fuel and manpower savings.'
+            'desc'  => 'The Auxiliary Power Unit (APU) is a turbine engine that starts the aircraft's engines, provides air conditioning and electrical power on the ground, and back-up electrical power in flight.
+This application eases the management of APU usage providing real-time alerting and post use reporting, resulting in substantial annual fuel and manpower savings.'
         ),
         array(
             'title' => 'AIRCRAFT SYSTEMS PREDICTION, EMULATION AND NOTIFICATION',
-            'desc'  => 'Mirrors and replicates all flight deck and aircraft systems data allowing pilots and airline operations to collaborate on troubleshooting during flight. Provides en-route notification to Technical Operations of actual and predicted aircraft component failures.  This application facilitates measurable savings in delay minutes, cancellations, and manpower.'
+            'desc'  => 'Detailed real-time aircraft systems and engine operating data is currently limited or not available to ground personnel. This multi-faceted application provides en-route notification to the Technical Operations Center of actual or predicted aircraft component failures.
+This application mirrors and replicates available flight deck and aircraft systems data allowing pilots and airline operations to collaborate on troubleshooting during flight.'
         ),
         array(
             'title' => 'CARBON EMISSIONS AUDITOR',
