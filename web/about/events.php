@@ -39,21 +39,21 @@ EOF;
                 </div>
             </li>
             <li class="clearafter">
-                <img class="float-left" src="<?= BASE_URL ?>static/images/events/rtca.jpg" width="150"  alt="RTCA Annual Symposium">
-                <div class="float-left">
-                    <strong>June 5-6, 2013</strong><br>
-                    RTCA Annual Symposium<br>
-                    Washington, DC<br>
-                    <a href="http://symposium.rtca.org/" target="_blank">Event Website</a>
-                </div>
-            </li>
-            <li class="clearafter">
                 <img class="float-left" src="<?= BASE_URL ?>static/images/events/AEEClogo.jpg" width="150"  alt="EFB Users Forum">
                 <div class="float-left">
                     <strong>May 8-9, 2013</strong><br>
                     EFB Users Forum<br>
                     Stockholm, Sweden<br>
                     <a href="http://www.aviation-ia.com/events/EfbUsersForumAnnounce.pdf" target="_blank">Event Website</a>
+                </div>
+            </li>
+            <li class="clearafter">
+                <img class="float-left" src="<?= BASE_URL ?>static/images/events/rtca.jpg" width="150"  alt="RTCA Annual Symposium">
+                <div class="float-left">
+                    <strong>June 5-6, 2013</strong><br>
+                    RTCA Annual Symposium<br>
+                    Washington, DC<br>
+                    <a href="http://symposium.rtca.org/" target="_blank">Event Website</a>
                 </div>
             </li>
         </ul>
