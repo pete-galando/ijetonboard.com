@@ -104,10 +104,24 @@ EOF;
     </section>
     <section>
         <h2>Board of Directors</h2>
-        <ul class="spaced board">
-            <li>William J. Marks, Chairman & Co-Founder</li>
-            <li>Thomas Rinderknecht</li>
-            <li>J.P. Roed</li>
+        <ul class="spaced">
+            <li>
+                <a name="wmj-marks" href="#wmj-marks" class="toggle-link icon-down">William J. Marks, Chairman & Co-Founder</a>
+                <div class="toggle-target">
+                Mr. Marks' began his career in the cable television industry when he co-founded Marks CableVision, American Cable and other cable systems. Mr. Marks was awarded exclusive telephony and cable agreements in the UK and France.  In 2004, he co-founded SeaMobile, the world.s leading provider of satellite connectivity to remote locations and on ships.  Marks is a member of the Cable TV Pioneers and has extensive background and contacts in the financial markets in both the U.S. and Europe.</div>
+            </li>
+            <li>
+                <a name="jp-roed" href="#jp-roed" class="toggle-link icon-down">Jan Petter Roed, Co-Founder & Director</a>
+                <div class="toggle-target">
+Jan Petter (J.P.) Roed is a member of the American Bureau of Shipping, and has deep experience within the commercial and financial operations of the shipping industry.  He has owned and operated a mixed fleet of oil and chemical tankers, passenger ferries, container ships, and bulk carriers He attended the Norwegian Institute of Technology, attaining a Master of Science degree in Naval Architecture and Marine Engineering.  Amongst his other achievements, his commendations include the Order of the North Star, Sweden, and the Order of the Falcon, Iceland.  Other interests have ranged from geothermal power plants and windmills in the US and globally, to environmental and safety management in the oil and petrochemical industries.  He served as a member of the advisory committee of SeaMobile, Inc.
+</div>
+            </li>
+            <li>
+                <a name="thomas-rinderknecht" href="#thomas-rinderknecht" class="toggle-link icon-down">Dr. Tomas Rinderknecht, Board of Directors</a>
+                <div class="toggle-target">
+Dr. Tomas M. Rinderknecht, J.D., M.D., has been practicing commercial law in Europe since 1982. He is a senior partner with Badertscher Rechtsanw&#228lte AG Attorneys in Switzerland, specializing in pharmaceutical and biotech law. Dr. Rinderknecht founded one of the first Swiss venture capital companies  VECAP Venture Capital Partners AG, and has been actively involved in the start-up, development and exit of various successful biotech and pharmaceutical companies.  He has served on the boards of directors of several biotech, pharma and medtech companies including Speedel AG, Basel, Glycart Biotechnology AG, Schlieren, and Ganymed Pharmaceuticals. He currently serves as chairman of Canyon Pharmaceuticals AG, Zug, and vice-chairman of APR Applied Pharma Research SA, Balerna.
+</div>
+            </li>
         </ul>
     </section>
 <?php
