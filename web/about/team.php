@@ -117,9 +117,9 @@ Jan Petter (J.P.) Roed is a member of the American Bureau of Shipping, and has d
 </div>
             </li>
             <li>
-                <a name="thomas-rinderknecht" href="#thomas-rinderknecht" class="toggle-link icon-down">Dr. Tomas Rinderknecht, Director</a>
+                <a name="thomas-rinderknecht" href="#thomas-rinderknecht" class="toggle-link icon-down">Dr. Thomas Rinderknecht, Director</a>
                 <div class="toggle-target">
-Dr. Tomas M. Rinderknecht, J.D., M.D., has been practicing commercial law in Europe since 1982. He is a senior partner with Badertscher Rechtsanw&#228lte AG Attorneys in Switzerland, specializing in pharmaceutical and biotech law. Dr. Rinderknecht founded one of the first Swiss venture capital companies  VECAP Venture Capital Partners AG, and has been actively involved in the start-up, development and exit of various successful biotech and pharmaceutical companies.  He has served on the boards of directors of several biotech, pharma and medtech companies including Speedel AG, Basel, Glycart Biotechnology AG, Schlieren, and Ganymed Pharmaceuticals. He currently serves as chairman of Canyon Pharmaceuticals AG, Zug, and vice-chairman of APR Applied Pharma Research SA, Balerna.
+Dr. Thomas M. Rinderknecht, J.D., M.D., has been practicing commercial law in Europe since 1982. He is a senior partner with Badertscher Rechtsanw&#228lte AG Attorneys in Switzerland, specializing in pharmaceutical and biotech law. Dr. Rinderknecht founded one of the first Swiss venture capital companies  VECAP Venture Capital Partners AG, and has been actively involved in the start-up, development and exit of various successful biotech and pharmaceutical companies.  He has served on the boards of directors of several biotech, pharma and medtech companies including Speedel AG, Basel, Glycart Biotechnology AG, Schlieren, and Ganymed Pharmaceuticals. He currently serves as chairman of Canyon Pharmaceuticals AG, Zug, and vice-chairman of APR Applied Pharma Research SA, Balerna.
 </div>
             </li>
         </ul>
