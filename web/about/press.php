@@ -107,7 +107,7 @@ EOF;
             <li>
                 <a name="tablets" href="#tablets" class="toggle-link icon-down">Here Come Tablets. Here come Problems</a>
                 <div class="toggle-target">
-                    "American Airlines was an early adopter of tablet computers. As a result, it learned a lot about how best to use tablets–and where it could go wrong."
+                    "American Airlines was an early adopter of tablet computers. As a result, it learned a lot about how best to use tablets and where it could go wrong."
                     <p><a href="<?= BASE_URL ?>static/docs/2012_04_02_WSJ.pdf" target="_blank" class="button">
                         Read the full Article
                     </a></p>
