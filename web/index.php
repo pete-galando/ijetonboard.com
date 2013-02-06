@@ -21,7 +21,7 @@
         <h2>Developers</h2>
 
         <p>
-        iJet allows developers to address current operational inefficiencies by rapidly developing and deploying applications.  Our Platform-as-a-Service approach reduces the constraints of traditional barriers to entry for developers. </p>
+        iJet allows developers to address current operational inefficiencies by rapidly developing and deploying applications.  Our Platform-as-a-Service approach reduces common development constraints and traditional barriers to entry. </p>
         <a href="<?= BASE_URL ?>developers/" class="button icon-gear">Learn More</a>
     </div>
 </section>
