@@ -149,15 +149,6 @@ EOF;
                     </a></p>
                 </div>
             </li>
-            <li>
-                <a name="#pilots" href="#pilots" class="toggle-link icon-down">Alaska Airlines Pilots Go Lean and Green with iPads</a>
-                <div class="toggle-target">
-                    First major domestic airline to use iPads to replace flight manuals.
-                    <p><a href="<?= BASE_URL ?>static/docs/2011_07_29_CNN.pdf" target="_blank" class="button">
-                        Read the full Article
-                    </a></p>
-                </div>
-            </li>
         </ul>
     </section>
     <section>
