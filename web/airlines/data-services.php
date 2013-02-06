@@ -35,7 +35,7 @@ EOF;
         <li class="clearafter">
             <img src="<?= BASE_URL; ?>static/images/data-services-1.png" width="100" class="float-left">
             <div class="float-left">
-                <strong>AIRCRAFT DEPARTURES AND ARRIVAL MONITORING</strong><br>
+                <strong>AIRCRAFT DEPARTURE AND ARRIVAL MONITORING</strong><br>
             Gathers and displays real-time progress information to pilots and airport operations personnel of all pre-departure processes including: baggage loading, passenger boarding, catering and fueling to better ensure on-time aircraft departures.  It is designed improve coordination for after gate departures and reduce fuel usage both in flight and on the ground. 
 </div>
         </li>
